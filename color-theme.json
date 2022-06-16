@@ -1,0 +1,145 @@
+{
+  "type": "dark",
+  "colors": {
+    "ActivityBarBackground": "rgb(38, 50, 56)",
+    "ActivityBarActiveForeground": "rgb(238, 255, 255)",
+    "ActivityBarForeground": "rgba(238, 255, 255, 0.4)",
+
+    "BadgeBackground": "",
+    "BadgeForeground": "",
+
+    "ContextMenuBackground": "rgb(38, 50, 56)",
+    "ContextMenuForeground": "rgb(238, 255, 255)",
+
+    "EditorBackGround": "",
+    "EditorScrollBarBackground": "",
+    "EditorCursorBackground": "",
+
+    "EditorSelectionBackground": "rgba(128, 203, 196, 0.06)",
+
+    "FocusOutline": "",
+
+    "InputBoxForeground": "rgb(238, 255, 255)",
+
+    "ListActiveSelectionBackground": "",
+    "ListActiveSelectionForeground": "#80cbc4",
+    "ListHoverBackground": "rgba(0, 0, 0, 0.31)",
+    "ListHoverForeground": " rgb(128, 203, 196)",
+    "ListInactiveSelectionBackground": "",
+    "ListForeground": "rgb(204, 204, 204)",
+
+    "MainBackground": "rgb(38, 50, 56)",
+
+    "//": "TODO: merge this with list background, it is difficult to specify all menus: context menu, title bar menu, quickpick",
+    "MenuBackground": "rgb(38, 50, 56)",
+    "MenuForeground": "rgb(238, 255, 255)",
+
+    "PanelBackground": "rgb(38, 50, 56)",
+    "PanelBorderTopColor": "",
+
+    "QuickPickBackground": "#263238",
+    "QuickPickInputBackground": "",
+
+    "SideBarBackground": "#263238",
+
+    "StatusBarBackground": "rgb(38, 50, 56)",
+    "StatusBarForeground": "rgb(84, 110, 122)",
+    "StatusBarBorderTopColor": "",
+
+    "TabActiveForeground": "rgb(255, 255, 255)",
+    "TabActiveBackground": "rgb(38, 50, 56)",
+    "TabForeground": "rgb(96, 122, 134)",
+    "TabBackground": "rgb(38, 50, 56)",
+
+    "TabsBackground": "rgb(38, 50, 56)",
+
+    "TitleBarBackground": "rgb(38, 50, 56)",
+    "TitleBarBorderBottomColor": "",
+    "TitleBarColor": "rgb(238, 255, 255)",
+    "TitleBarColorInactive": "rgb(96, 122, 134)",
+
+    "TreeItemForeground": "rgb(96, 122, 134)"
+  },
+  "tokenColors": [
+    {
+      "name": "CssSelector",
+      "foreground": "#ffcb6b"
+    },
+    {
+      "name": "CssPropertyName",
+      "foreground": "#b2ccd6"
+    },
+    {
+      "name": "CssPropertyValue",
+      "foreground": "#f78c6c"
+    },
+    {
+      "name": "TagName",
+      "foreground": "#f07178"
+    },
+    {
+      "name": "PunctuationTag",
+      "foreground": "#89ddff"
+    },
+    {
+      "name": "AttributeName",
+      "foreground": "#c792ea"
+    },
+    {
+      "name": "String",
+      "foreground": "#c3e88d"
+    },
+    {
+      "name": "PunctuationString",
+      "foreground": "#89ddff"
+    },
+    {
+      "name": "JsonPropertyName",
+      "foreground": ""
+    },
+    {
+      "name": "KeywordImport",
+      "foreground": ""
+    },
+    {
+      "name": "Numeric",
+      "foreground": "#f78c6c"
+    },
+    {
+      "name": "Keyword",
+      "foreground": "#c792ea"
+    },
+    {
+      "name": "VariableName",
+      "foreground": "#f07178"
+    },
+    {
+      "name": "Macro",
+      "foreground": "#89ddff"
+    },
+    {
+      "name": "Comment",
+      "foreground": "#546e7a"
+    },
+    {
+      "name": "KeywordControl",
+      "foreground": "#89DDFF"
+    },
+    {
+      "name": "KeywordImport",
+      "foreground": "#89DDFF"
+    },
+    {
+      "name": "Type",
+      "foreground": "#FFCB6B"
+    },
+    {
+      "name": "Function",
+      "foreground": "#82AAFF"
+    },
+    {
+      "name": "Parameter",
+      "foreground": "#FF5370"
+    }
+  ]
+}

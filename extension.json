@@ -1,0 +1,12 @@
+{
+  "id": "builtin.theme-material",
+  "name": "Material Theme",
+  "description": "The most epic theme now for Visual Studio Code",
+  "colorThemes": [
+    {
+      "id": "material",
+      "label": "Material",
+      "path": "color-theme.json"
+    }
+  ]
+}
