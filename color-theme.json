@@ -140,6 +140,22 @@
     {
       "name": "Parameter",
       "foreground": "#FF5370"
+    },
+    {
+      "name": "JsonPropertyName",
+      "foreground": "#c792ea"
+    },
+    {
+      "name": "JsonPropertyValueString",
+      "foreground": "#c3e88d"
+    },
+    {
+      "name": "LanguageConstant",
+      "foreground": "#F78C6C"
+    },
+    {
+      "name": "Heading",
+      "foreground": "#ffcb6b"
     }
   ]
 }
