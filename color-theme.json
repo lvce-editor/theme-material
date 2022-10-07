@@ -8,12 +8,18 @@
     "BadgeBackground": "",
     "BadgeForeground": "",
 
+    "CompletionListBackground": "#263238",
+    "CompletionListItemActiveBackground": "rgba(0, 0, 0, 0.31)",
+    "CompletionListItemActiveForeground": "#80cbc4",
+    "CompletionListBorder": "rgba(255, 255, 255, 0.06)",
+
     "ContextMenuBackground": "rgb(38, 50, 56)",
     "ContextMenuForeground": "rgb(238, 255, 255)",
 
     "EditorBackGround": "",
     "EditorScrollBarBackground": "",
-    "EditorCursorBackground": "",
+    "EditorCursorBackground": "#ffcc00",
+    "EditorSelectionBackground": "rgba(128, 203, 196, 0.13)",
 
     "EditorSelectionBackground": "rgba(128, 203, 196, 0.06)",
 
