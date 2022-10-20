@@ -17,7 +17,7 @@
     "ContextMenuForeground": "rgb(238, 255, 255)",
 
     "EditorBackGround": "",
-    "EditorScrollBarBackground": "",
+    "EditorScrollBarBackground": "rgba(238, 255, 255, 0.13)",
     "EditorCursorBackground": "#ffcc00",
     "EditorSelectionBackground": "rgba(128, 203, 196, 0.13)",
 
@@ -117,7 +117,7 @@
     },
     {
       "name": "VariableName",
-      "foreground": "#f07178"
+      "foreground": "#EEFFFF"
     },
     {
       "name": "Macro",
@@ -157,7 +157,7 @@
     },
     {
       "name": "LanguageConstant",
-      "foreground": "#F78C6C"
+      "foreground": "#89DDFF"
     },
     {
       "name": "Heading",
@@ -170,6 +170,14 @@
     {
       "name": "YamlPropertyValueString",
       "foreground": "#C3E88D"
+    },
+    {
+      "name": "KeywordThis",
+      "foreground": "#89DDFF"
+    },
+    {
+      "name": "KeywordReturn",
+      "foreground": "#89DDFF"
     }
   ]
 }
