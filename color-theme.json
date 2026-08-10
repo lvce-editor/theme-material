@@ -118,6 +118,10 @@
       "foreground": "#c792ea"
     },
     {
+      "name": "KeywordOperator",
+      "foreground": "#89DDFF"
+    },
+    {
       "name": "VariableName",
       "foreground": "#EEFFFF"
     },
